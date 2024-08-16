@@ -28,3 +28,4 @@ Hop Server/
 Relational Database Connection/
 \.temp-beam-*/
 /audit
+/config
